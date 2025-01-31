@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Developer from India</h3>
 
 - 💬 Ask me about **react,Ml,Ai,Gen AI**
+- Check Out My Badges <a href="https://www.credly.com/users/vsreddy"> 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
